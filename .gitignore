@@ -1,0 +1,16 @@
+#dev git .gitignore file
+#@can not merge to github
+/ws/*
+/target/*
+/lib/java/target/*
+/bin/*
+/*/target/*
+/*/bin/*
+/*/.*
+.project
+.classpath
+.idea/
+classes/
+*.iml
+.DS_Store
+logs/
